@@ -36,7 +36,6 @@ Skills: Java /Kotlin/ Spring/ MySQL/ MongoDB
   
   ### Contact me: 
   
-  [<img align="left" alt=""
   
   
 <!--

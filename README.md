@@ -2,15 +2,7 @@
 
 
 ### Hi there 👋, I'm Gabriel
-#### I'm a developer, student and enthusiast
 
-I am from Brazil, have 17 years old and i'm into backend development with Java, Spring Boot. 
-
-Skills: Java /Kotlin/ Spring/ MySQL/ MongoDB
-
-- I’m currently working on with API's and databases development. 
-- I’m currently learning Data Science. 
-<br></br>
 
 <div>
   <a hreaf="https://github.com/gabrielbrisson">

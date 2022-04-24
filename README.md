@@ -26,7 +26,7 @@
   
   ##
   
-  ### Contact me: 
+  ### Contact me: gabrielbrisson02@gmail.com
   
   
   
